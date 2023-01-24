@@ -1,4 +1,4 @@
-from main import get_token, get_prompt, generate_email
+from main import generate_email
 import dotenv
 import os
 import discord
